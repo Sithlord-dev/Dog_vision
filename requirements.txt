@@ -6,7 +6,6 @@ jinja2==2.11.3
 keras==2.4.3
 keras-base==2.4.3
 keras-preprocessing==1.1.2
-numpy==1.19.2
 requests==2.25.1
 scipy==1.6.1
 tensorflow==2.4.1
