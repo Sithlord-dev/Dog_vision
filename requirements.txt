@@ -1,6 +1,6 @@
 flask==1.1.2
 gunicorn==19.9.0
-numpy=1.19.2
+numpy==1.19.2
 h5py==2.2.1
 hdf5==1.10.6
 jinja2==2.11.3
