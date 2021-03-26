@@ -4,7 +4,7 @@ I have been working on a Deep Learning project, and I designed this Dog breed cl
 
 In addition to the Notebook, you can locally run the webapp on your computer as follow:
 
-### Getting started
+### Get down to business!
 1. Clone this repo: `git clone git@github.com:Sithlord-dev/Dog_vision.git`
 2. Change to the repo directory: `cd Dog_vision`
 (optional :  If you want to use virtualenv: `virtualenv ENV && source ENV/bin/activate`)
