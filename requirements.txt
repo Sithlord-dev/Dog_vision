@@ -1,0 +1,7 @@
+flask==1.1.2
+gunicorn==19.9.0
+numpy==1.19.2
+h5py==2.10.0
+jinja2==2.11.3
+keras==2.4.3
+tensorflow==2.4.1
