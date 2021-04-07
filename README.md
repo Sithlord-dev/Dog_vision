@@ -2,7 +2,9 @@
 
 I have been working on a Deep Learning project, and I designed this Dog breed classification webapp. It uses transfer learning and the desnly connecter neural netwerk has reached an accuracy of 97%. It will help identify up to 120 different breeds of dogs 🐩
 
-In addition to the Notebook : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sithlord-dev/Dog_vision/blob/main/Dog_bread_classification.ipynb), you can locally run the webapp on your computer as follow:
+In addition to the Notebook : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sithlord-dev/Dog_vision/blob/main/Dog_bread_classification.ipynb) 
+
+you can locally run the webapp on your computer as follow:
 
 ### Get down to business!
 1. Clone this repo: `git clone git@github.com:Sithlord-dev/Dog_vision.git`
