@@ -13,6 +13,6 @@ In addition to the Notebook, you can locally run the webapp on your computer as 
 
 You can start the api server with `gunicorn web:app --reload --port 5000`
 
-![separator](img/Screenshot from 2021-04-07 23-13-09.png)
+![image](img/Screenshot from 2021-04-07 23-13-09.png)
 
 Or the Notebook with : [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sithlord-dev/Dog_vision/blob/main/Dog_bread_classification.ipynb)
